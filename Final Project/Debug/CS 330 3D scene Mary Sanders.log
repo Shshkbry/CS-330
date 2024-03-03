@@ -1,0 +1,10 @@
+﻿  3dscene.cpp
+C:\CS330 Mary Sanders\CS 330 3D scene Mary Sanders\3dscene.cpp(175,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Mary Sanders\CS 330 3D scene Mary Sanders\3dscene.cpp(281,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Mary Sanders\CS 330 3D scene Mary Sanders\3dscene.cpp(282,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Mary Sanders\CS 330 3D scene Mary Sanders\3dscene.cpp(286,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Mary Sanders\CS 330 3D scene Mary Sanders\3dscene.cpp(287,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Mary Sanders\CS 330 3D scene Mary Sanders\3dscene.cpp(289,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Mary Sanders\CS 330 3D scene Mary Sanders\3dscene.cpp(290,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Mary Sanders\CS 330 3D scene Mary Sanders\3dscene.cpp(300,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS 330 3D scene Mary Sanders.vcxproj -> C:\CS330 Mary Sanders\CS 330 3D scene Mary Sanders\Debug\CS 330 3D scene Mary Sanders.exe
