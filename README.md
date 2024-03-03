@@ -1,7 +1,8 @@
 # CS-330
 ## CS 330 Graphic Design and Visualization
 **1. How do I approach designing software?**
-
+>
+>
 **2. What new design skills has your work on the project helped you to craft?**
 
 **3. What design process did you follow for your project work?**
